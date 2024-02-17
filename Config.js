@@ -6,6 +6,6 @@ module.exports = {
   AWS_ACCESS_KEY: process.env.AWS_ACCESS_KEY || 'AKIASFNTDWL6XMHUYEMS',
   AWS_SECRET_KEY:
     process.env.AWS_SECRET_KEY || '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',
-  AWS_REGION: process.env.AWS_REGION || 'ap-south-1',
-  AWS_BUCKET_NAME: process.env.AWS_BUCKET_NAME || 'imgupload11',
+  AWS_REGION: process.env.AWS_REGION || 'ap-southeast-1',
+  AWS_BUCKET_NAME: process.env.AWS_BUCKET_NAME || 'imgandvideodemo',
 };
